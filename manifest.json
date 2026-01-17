@@ -1,0 +1,15 @@
+{
+  "short_name": "socratictutor",
+  "name": "Socratic Tutor",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1160/1160358.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
