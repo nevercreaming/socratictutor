@@ -1,0 +1,7 @@
+{
+  "name": "Socratic Tutor",
+  "description": "A compassionate, multi-subject AI tutor that uses the Socratic method to help students master complex concepts step-by-step.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
